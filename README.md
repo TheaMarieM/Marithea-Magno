@@ -11,7 +11,7 @@ Passionate about building intuitive software, analyzing data, and exploring what
 
 ---
 
-## 🛠️ About Me
+## About Me
 
 * 💻 I’m an Information Technology student major in Web Development.
 * 📊 Deeply engaged in building softwaare development, front end, system architecture and data analytics.
@@ -20,14 +20,14 @@ Passionate about building intuitive software, analyzing data, and exploring what
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheaMarieM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/mmm.theamari/))
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
