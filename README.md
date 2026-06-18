@@ -1,4 +1,4 @@
-# Hi there, I'm Marithea! 👋
+# Hi there, I'm TheaMarieM! 👋
 
 ### Software Developer | BSIT Student | Tech Enthusiast
 
